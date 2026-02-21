@@ -1,8 +1,5 @@
 # Shamir Secret Sharing – Secret Recovery
 
-## Candidate
-
-Name: <Your Name>
 Language Used: Java
 
 ---
